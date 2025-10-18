@@ -114,7 +114,9 @@ plot v(in) v(out)
 ### 🧑‍💻 Author
 
 Tejasri Aluri
+
 📍 Electronics & Communication Engineer | IoT & VLSI Enthusiast
+
 💡 Passionate about chip design, circuit analysis, and open-source EDA.
 
 ### 🌐 References
